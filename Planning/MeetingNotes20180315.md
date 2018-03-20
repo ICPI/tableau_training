@@ -2,6 +2,29 @@
 
 Attendees: Noah, Kristy, Aaron, Kashmira, Katya 
 
+### Next Steps
+
+Katya 
+- review dates with OCM (June 14, 21, 28) for a 3 hour block
+- Create doodle poll 
+- follow up w/OCM on target attendee list 
+- Send out list of video resources - Brittney to review/add/edit
+- Send dataset & assignment for tableau pre-work to Brittney for review/editing
+
+Noah 
+- Identify relevant interested staff in training who support ICPI (who could help facilitate or would benefit in participating)
+
+Brittney
+- Review/revise video resources
+- Develop/revise pre-work 
+
+All
+- Contribute to Tableau wiki page for resolving common Tableau issues
+
+
+### Notes
+
+
 #### Logistics/Organization (Kashmira)
 - Review of R Training feedback (only 3 evaluations to-date)
   - Did not feel like it was an organized training
