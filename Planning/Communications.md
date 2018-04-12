@@ -14,7 +14,7 @@ Reflects discussions from prior meetings
      - June 28 (9:30am-12:30pm or 1-4pm) - 10 ppl
 
 #### 2. Send out Registration & Pre-Training assessment 
-   - plan: open April 11 - close April 27
+   - plan: open April 17 - close May 4
    - Include options/comment for unable to go and reason (won't have Tableau, won't be around, interested, etc.)
    - Include "getting started with Tableau" video 
 
