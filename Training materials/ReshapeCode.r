@@ -24,4 +24,4 @@ sub.df <- select(filter(longplus.df, value != "NULL"),c(orgUnitUID:Valuetype))
 gathernulls <- select(filter(longplus.df, value == "NULL"))
 
 #Export dataset to csv or txt or xls for reading into Tableau
-write.csv(longplus.df,"trainingdatasetsiteimv2.csv", row.names=FALSE)
+write.csv(sub.df,"trainingdatasetsiteimv2.csv", row.names=FALSE)
