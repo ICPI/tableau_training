@@ -69,9 +69,9 @@ data <- data %>%
 ## TX_PVLS disaggs = AgeAboveTen/Sex/Indication;	AgeLessThanTen/Indication;	Aggregated Age/Sex;	Aggregated Age/Sex/Indication; Total Numerator;	Total Denominator
 ## For FY15/16 there is no TX_PVLS and there is only the Age/Sex disagg
 
-#Renames first column header from ï..orgUnitUID to orgUnitUID [no longer needed bc changed type of import]
+#Renames first column header from Ã¯..orgUnitUID to orgUnitUID [no longer needed bc changed type of import]
 #data <- data %>% 
-#  rename("orgUnitUID" = "ï..orgUnitUID")
+#  rename("orgUnitUID" = "Ã¯..orgUnitUID")
 
 
 ################################# 
